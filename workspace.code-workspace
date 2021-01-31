@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "config/webpack"
+		},
+		{
+			"path": "."
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu-20.04",
+	"settings": {}
+}

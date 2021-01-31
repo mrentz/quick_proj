@@ -33,3 +33,4 @@ gem 'simple_form'
 gem 'jquery-rails'
 gem 'faker'
 gem 'devise'
+
