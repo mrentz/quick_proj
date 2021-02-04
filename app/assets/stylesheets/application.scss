@@ -14,3 +14,8 @@
  *= require_self
  */
  @import "./actiontext.scss";
+
+ select.form-control.is-invalid{ background-image: none; }
+ select.form-control.is-valid{ background-image: none; }
+ input.form-control.is-invalid{ background-image: none; }
+ input.form-control.is-valid{ background-image: none; }
